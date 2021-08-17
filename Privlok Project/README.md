@@ -1,9 +1,11 @@
 # Privlok (A Mobile Application)
 ## Team Members:- 
+Nirmit Bansal (1900290140022)
 
--Nirmit Bansal (1900290140022)
 -Archana Varshney (1900290140009)
+
 **Himanshu Sharma (1900290140016)
+
 **Sachin Rathi (1900290140029)
 
 Security is the first thing that comes to our mind before using it. In day-to-day life, 
