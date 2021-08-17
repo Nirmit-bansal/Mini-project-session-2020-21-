@@ -1,8 +1,8 @@
 # Privlok (A Mobile Application)
 ## Team Members:- 
 
-**Nirmit Bansal (1900290140022)
-**Archana Varshney (1900290140009)
+-Nirmit Bansal (1900290140022)
+-Archana Varshney (1900290140009)
 **Himanshu Sharma (1900290140016)
 **Sachin Rathi (1900290140029)
 
